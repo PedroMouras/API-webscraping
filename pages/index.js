@@ -1,4 +1,3 @@
-// pages/index.js
 
 import { useEffect, useState } from 'react';
 
